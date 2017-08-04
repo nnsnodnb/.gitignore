@@ -16,7 +16,7 @@ DerivedData/
 !default.mode2v3
 *.perspectivev3
 !default.perspectivev3
-*.xcodeproj/xcuserdata/
+xcuserdata/
 
 ## Other
 *.moved-aside
@@ -56,3 +56,7 @@ Temporary Items
 Pods/
 Podfile.lock
 *.xcworkspace
+
+# Carthage
+#Carthage/Build/
+Carthage/Checkouts/
